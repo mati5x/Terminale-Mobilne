@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HW3</string>
+
+    <string name="delete_question">Czy napewno chcesz usunąć tę pozycję?</string>
+    <string name="dialog_confirm">Usuń</string>
+    <string name="dialog_cancel">Cofnij</string>
+    <string name="title">Tytuł</string>
+    <string name="releaseDate">Rok wydania</string>
+    <string name="uid">Uid</string>
+    <string name="category">Kategoria</string>
+    <string name="director">Reżyser</string>
+</resources>
